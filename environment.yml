@@ -1,0 +1,5 @@
+name: house-prices
+channels:
+  - defaults
+dependencies:
+  - python=3.12
