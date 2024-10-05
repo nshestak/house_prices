@@ -1,5 +1,9 @@
 name: house-prices
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.12
+  - jupyterlab
+  - pandas
+  - matplotlib
