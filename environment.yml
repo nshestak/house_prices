@@ -7,3 +7,8 @@ dependencies:
   - jupyterlab
   - pandas
   - matplotlib
+  - numpy==1.26.4
+  - seaborn
+  - scipy
+  - kaggle
+  - scikit-learn
